@@ -1,10 +1,10 @@
-# 1 "7-print_tebahpla.c"
+# 1 "8-print_base16.c"
 # 1 "<built-in>"
 # 1 "<command-line>"
 # 31 "<command-line>"
 # 1 "/usr/include/stdc-predef.h" 1 3 4
 # 32 "<command-line>" 2
-# 1 "7-print_tebahpla.c"
+# 1 "8-print_base16.c"
 # 1 "/usr/include/stdio.h" 1 3 4
 # 27 "/usr/include/stdio.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -722,7 +722,7 @@ extern int __uflow (FILE *);
 extern int __overflow (FILE *, int);
 # 873 "/usr/include/stdio.h" 3 4
 
-# 2 "7-print_tebahpla.c" 2
+# 2 "8-print_base16.c" 2
 
 
 
@@ -730,15 +730,18 @@ extern int __overflow (FILE *, int);
 
 
 
-# 8 "7-print_tebahpla.c"
+# 8 "8-print_base16.c"
 int main(void)
 {
- char letter;
+  char digit;
 
- for (letter = 'z'; letter >= 'a'; letter--)
- putchar(letter);
+  for (digit = '0'; digit <= '9'; digit++)
+  putchar(digit);
 
- putchar('\n');
+  for (digit = 'a'; digit <= 'f'; digit++)
+  putchar(digit);
+
+  putchar('\n');
 
  return (0);
 }

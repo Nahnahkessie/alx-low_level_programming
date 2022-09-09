@@ -1,10 +1,10 @@
-# 1 "9-print_comb.c"
+# 1 "2-print_alphabet.c"
 # 1 "<built-in>"
 # 1 "<command-line>"
 # 31 "<command-line>"
 # 1 "/usr/include/stdc-predef.h" 1 3 4
 # 32 "<command-line>" 2
-# 1 "9-print_comb.c"
+# 1 "2-print_alphabet.c"
 # 1 "/usr/include/stdio.h" 1 3 4
 # 27 "/usr/include/stdio.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -722,29 +722,22 @@ extern int __uflow (FILE *);
 extern int __overflow (FILE *, int);
 # 873 "/usr/include/stdio.h" 3 4
 
-# 2 "9-print_comb.c" 2
+# 2 "2-print_alphabet.c" 2
 
 
 
 
 
 
-
-# 8 "9-print_comb.c"
+# 7 "2-print_alphabet.c"
 int main(void)
 {
-  int number;
 
-  for (number = 0; number <= 9; number++)
-  {
-  putchar(number + '0');
-  if (number < 9)
-  {
-  putchar(',');
-  putchar(' ');
-  }
-  }
+ char c;
+
+ for (c = 'a'; c <= 'z'; c++)
+  putchar(c);
   putchar('\n');
 
- return (0);
+return (0);
 }

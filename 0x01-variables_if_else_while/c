@@ -729,8 +729,7 @@ extern int __overflow (FILE *, int);
 
 
 
-
-# 8 "2-print_alphabet.c"
+# 7 "2-print_alphabet.c"
 int main(void)
 {
 

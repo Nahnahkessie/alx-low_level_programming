@@ -1,4 +1,4 @@
-	.file	"main.c"
+	.file	"2-print_alphabet.c"
 	.text
 	.globl	main
 	.type	main, @function

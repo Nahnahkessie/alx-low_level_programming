@@ -3,6 +3,7 @@
  * main - Entry point
  *
  * Return: Always 0 (Success)
+ * This was done by Atuahene Barimah
  */
 int main(void)
 {

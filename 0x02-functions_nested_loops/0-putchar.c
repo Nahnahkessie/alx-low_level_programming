@@ -1,13 +1,12 @@
-#include "main.h"
+#include "holberton.h"
 /**
- * Bee
  * main - Entry point
- * Description: prints '_putchar\n'
+ * Description: prints 'Holberton \n'
  * Return: Always 0 (success)
  */
 int main(void)
 {
-char str[] = "_putchar\n";
+char str[] = "Holberton\n";
 int i = 0;
 
 while (str[i] != '\0')

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *Bee
+ *Bee and Cee
  * main - tests function that prints if integer is positive or negative
  * Return: 0
  */

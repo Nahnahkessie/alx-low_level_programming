@@ -3,7 +3,7 @@
 
 /**
  * main - checks the code
- *
+ *Bee
  * Return: Always 0.
  */
 int main(void)

@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code for ALX School students.
+ * main - check the code
  * @a: an array of integers
  * @n: the number of elements to swap
  *

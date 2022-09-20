@@ -1,0 +1,101 @@
+
+========== 0-main.c ==========
+0-main.c:5: ERROR: trailing whitespace
+total: 1 errors, 0 warnings, 22 lines checked
+main
+
+========== 1-main.c ==========
+1-main.c:5: ERROR: trailing whitespace
+total: 1 errors, 0 warnings, 26 lines checked
+main
+
+========== 2-main.c ==========
+2-main.c:29: WARNING: suspect code indent for conditional statements (16, 25)
+total: 0 errors, 1 warnings, 41 lines checked
+main
+
+========== 3-main.c ==========
+3-main.c:11: WARNING: please, no spaces at the start of a line
+3-main.c:12: WARNING: please, no spaces at the start of a line
+3-main.c:14: WARNING: please, no spaces at the start of a line
+3-main.c:15: WARNING: please, no spaces at the start of a line
+3-main.c:16: WARNING: please, no spaces at the start of a line
+3-main.c:17: WARNING: please, no spaces at the start of a line
+total: 0 errors, 6 warnings, 18 lines checked
+main
+
+========== 4-main.c ==========
+4-main.c:13: WARNING: please, no spaces at the start of a line
+4-main.c:15: WARNING: please, no spaces at the start of a line
+4-main.c:16: WARNING: please, no spaces at the start of a line
+4-main.c:17: WARNING: please, no spaces at the start of a line
+4-main.c:18: ERROR: code indent should use tabs where possible
+4-main.c:18: WARNING: please, no spaces at the start of a line
+4-main.c:18: WARNING: suspect code indent for conditional statements (8, 12)
+4-main.c:19: ERROR: code indent should use tabs where possible
+4-main.c:19: WARNING: please, no spaces at the start of a line
+4-main.c:20: ERROR: code indent should use tabs where possible
+4-main.c:20: WARNING: please, no spaces at the start of a line
+4-main.c:21: ERROR: code indent should use tabs where possible
+4-main.c:21: WARNING: please, no spaces at the start of a line
+4-main.c:22: ERROR: code indent should use tabs where possible
+4-main.c:22: WARNING: please, no spaces at the start of a line
+4-main.c:23: ERROR: code indent should use tabs where possible
+4-main.c:23: WARNING: please, no spaces at the start of a line
+4-main.c:24: WARNING: please, no spaces at the start of a line
+4-main.c:25: WARNING: please, no spaces at the start of a line
+4-main.c:35: WARNING: please, no spaces at the start of a line
+4-main.c:37: WARNING: please, no spaces at the start of a line
+4-main.c:38: WARNING: please, no spaces at the start of a line
+4-main.c:39: WARNING: please, no spaces at the start of a line
+4-main.c:40: WARNING: please, no spaces at the start of a line
+total: 6 errors, 18 warnings, 41 lines checked
+print_array
+main
+
+========== 5-main.c ==========
+main
+
+========== 6-main.c ==========
+6-main.c:11: WARNING: line over 80 characters (158)
+6-main.c:11: WARNING: please, no spaces at the start of a line
+6-main.c:12: WARNING: please, no spaces at the start of a line
+6-main.c:14: WARNING: please, no spaces at the start of a line
+6-main.c:15: WARNING: please, no spaces at the start of a line
+6-main.c:16: WARNING: please, no spaces at the start of a line
+6-main.c:17: WARNING: please, no spaces at the start of a line
+total: 0 errors, 7 warnings, 18 lines checked
+main
+
+========== 7-main.c ==========
+7-main.c:11: WARNING: line over 80 characters (86)
+7-main.c:11: WARNING: please, no spaces at the start of a line
+7-main.c:12: WARNING: please, no spaces at the start of a line
+7-main.c:14: WARNING: please, no spaces at the start of a line
+7-main.c:15: WARNING: please, no spaces at the start of a line
+7-main.c:16: WARNING: please, no spaces at the start of a line
+7-main.c:17: WARNING: please, no spaces at the start of a line
+total: 0 errors, 7 warnings, 18 lines checked
+main
+
+========== 100-main.c ==========
+100-main.c:11: WARNING: line over 80 characters (121)
+100-main.c:11: WARNING: please, no spaces at the start of a line
+100-main.c:12: WARNING: please, no spaces at the start of a line
+100-main.c:14: WARNING: please, no spaces at the start of a line
+100-main.c:15: WARNING: please, no spaces at the start of a line
+100-main.c:16: WARNING: please, no spaces at the start of a line
+100-main.c:17: WARNING: please, no spaces at the start of a line
+100-main.c:18: WARNING: please, no spaces at the start of a line
+100-main.c:19: WARNING: please, no spaces at the start of a line
+100-main.c:20: WARNING: please, no spaces at the start of a line
+100-main.c:21: WARNING: please, no spaces at the start of a line
+100-main.c:22: WARNING: please, no spaces at the start of a line
+100-main.c:23: WARNING: please, no spaces at the start of a line
+100-main.c:24: WARNING: please, no spaces at the start of a line
+100-main.c:25: WARNING: please, no spaces at the start of a line
+100-main.c:26: WARNING: please, no spaces at the start of a line
+100-main.c:27: WARNING: please, no spaces at the start of a line
+100-main.c:28: WARNING: please, no spaces at the start of a line
+total: 0 errors, 18 warnings, 29 lines checked
+main

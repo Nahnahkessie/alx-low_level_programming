@@ -1,4 +1,4 @@
-#include "../main.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	char str[] = "Holberton School!\n";
+	char str[] = "Look up!\n";
 	char *ptr;
 
 	ptr = string_toupper(str);

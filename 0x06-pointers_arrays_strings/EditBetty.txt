@@ -99,3 +99,147 @@ main
 100-main.c:28: WARNING: please, no spaces at the start of a line
 total: 0 errors, 18 warnings, 29 lines checked
 main
+
+========== 101-main.c ==========
+101-main.c:10: WARNING: please, no spaces at the start of a line
+101-main.c:11: WARNING: please, no spaces at the start of a line
+101-main.c:12: WARNING: please, no spaces at the start of a line
+101-main.c:13: WARNING: please, no spaces at the start of a line
+101-main.c:14: WARNING: please, no spaces at the start of a line
+101-main.c:15: WARNING: please, no spaces at the start of a line
+101-main.c:16: WARNING: please, no spaces at the start of a line
+101-main.c:17: WARNING: please, no spaces at the start of a line
+101-main.c:18: WARNING: please, no spaces at the start of a line
+101-main.c:19: WARNING: please, no spaces at the start of a line
+101-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 11 warnings, 21 lines checked
+main
+
+========== 102-magic.c ==========
+102-magic.c:5: WARNING: please, no spaces at the start of a line
+102-magic.c:6: WARNING: please, no spaces at the start of a line
+102-magic.c:7: WARNING: please, no spaces at the start of a line
+102-magic.c:9: WARNING: please, no spaces at the start of a line
+102-magic.c:10: WARNING: please, no spaces at the start of a line
+102-magic.c:19: WARNING: please, no spaces at the start of a line
+102-magic.c:21: WARNING: please, no spaces at the start of a line
+102-magic.c:22: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 23 lines checked
+
+========== 103-main.c ==========
+103-main.c:11: WARNING: line over 80 characters (110)
+103-main.c:11: ERROR: code indent should use tabs where possible
+103-main.c:11: WARNING: please, no spaces at the start of a line
+103-main.c:12: WARNING: line over 80 characters (110)
+103-main.c:12: ERROR: code indent should use tabs where possible
+103-main.c:12: WARNING: please, no spaces at the start of a line
+103-main.c:13: ERROR: code indent should use tabs where possible
+103-main.c:13: WARNING: please, no spaces at the start of a line
+103-main.c:14: ERROR: code indent should use tabs where possible
+103-main.c:14: WARNING: please, no spaces at the start of a line
+103-main.c:15: ERROR: code indent should use tabs where possible
+103-main.c:15: WARNING: please, no spaces at the start of a line
+103-main.c:16: ERROR: code indent should use tabs where possible
+103-main.c:16: WARNING: please, no spaces at the start of a line
+103-main.c:18: ERROR: code indent should use tabs where possible
+103-main.c:18: WARNING: please, no spaces at the start of a line
+103-main.c:19: ERROR: code indent should use tabs where possible
+103-main.c:19: WARNING: please, no spaces at the start of a line
+103-main.c:20: ERROR: code indent should use tabs where possible
+103-main.c:20: WARNING: please, no spaces at the start of a line
+103-main.c:21: ERROR: code indent should use tabs where possible
+103-main.c:21: WARNING: please, no spaces at the start of a line
+103-main.c:22: ERROR: code indent should use tabs where possible
+103-main.c:22: WARNING: please, no spaces at the start of a line
+103-main.c:23: ERROR: code indent should use tabs where possible
+103-main.c:23: WARNING: please, no spaces at the start of a line
+103-main.c:24: ERROR: code indent should use tabs where possible
+103-main.c:24: WARNING: please, no spaces at the start of a line
+103-main.c:25: ERROR: code indent should use tabs where possible
+103-main.c:25: WARNING: please, no spaces at the start of a line
+103-main.c:26: ERROR: code indent should use tabs where possible
+103-main.c:26: WARNING: please, no spaces at the start of a line
+103-main.c:27: ERROR: code indent should use tabs where possible
+103-main.c:27: WARNING: please, no spaces at the start of a line
+103-main.c:28: ERROR: code indent should use tabs where possible
+103-main.c:28: WARNING: please, no spaces at the start of a line
+103-main.c:29: ERROR: code indent should use tabs where possible
+103-main.c:29: WARNING: please, no spaces at the start of a line
+103-main.c:30: ERROR: code indent should use tabs where possible
+103-main.c:30: WARNING: please, no spaces at the start of a line
+103-main.c:31: ERROR: code indent should use tabs where possible
+103-main.c:31: WARNING: please, no spaces at the start of a line
+103-main.c:32: ERROR: code indent should use tabs where possible
+103-main.c:32: WARNING: please, no spaces at the start of a line
+103-main.c:33: ERROR: code indent should use tabs where possible
+103-main.c:33: WARNING: please, no spaces at the start of a line
+103-main.c:34: ERROR: code indent should use tabs where possible
+103-main.c:34: WARNING: please, no spaces at the start of a line
+103-main.c:35: ERROR: code indent should use tabs where possible
+103-main.c:35: WARNING: please, no spaces at the start of a line
+103-main.c:36: ERROR: code indent should use tabs where possible
+103-main.c:36: WARNING: please, no spaces at the start of a line
+103-main.c:37: ERROR: code indent should use tabs where possible
+103-main.c:37: WARNING: please, no spaces at the start of a line
+103-main.c:38: ERROR: code indent should use tabs where possible
+103-main.c:38: WARNING: please, no spaces at the start of a line
+103-main.c:39: ERROR: code indent should use tabs where possible
+103-main.c:39: WARNING: please, no spaces at the start of a line
+103-main.c:40: ERROR: code indent should use tabs where possible
+103-main.c:40: WARNING: please, no spaces at the start of a line
+103-main.c:41: ERROR: code indent should use tabs where possible
+103-main.c:41: WARNING: please, no spaces at the start of a line
+103-main.c:42: ERROR: code indent should use tabs where possible
+103-main.c:42: WARNING: please, no spaces at the start of a line
+103-main.c:43: ERROR: code indent should use tabs where possible
+103-main.c:43: WARNING: please, no spaces at the start of a line
+103-main.c:44: ERROR: code indent should use tabs where possible
+103-main.c:44: WARNING: please, no spaces at the start of a line
+103-main.c:45: ERROR: code indent should use tabs where possible
+103-main.c:45: WARNING: please, no spaces at the start of a line
+103-main.c:46: ERROR: code indent should use tabs where possible
+103-main.c:46: WARNING: please, no spaces at the start of a line
+103-main.c:47: ERROR: code indent should use tabs where possible
+103-main.c:47: WARNING: please, no spaces at the start of a line
+103-main.c:48: ERROR: code indent should use tabs where possible
+103-main.c:48: WARNING: please, no spaces at the start of a line
+103-main.c:49: ERROR: code indent should use tabs where possible
+103-main.c:49: WARNING: please, no spaces at the start of a line
+103-main.c:50: ERROR: code indent should use tabs where possible
+103-main.c:50: WARNING: please, no spaces at the start of a line
+103-main.c:51: ERROR: code indent should use tabs where possible
+103-main.c:51: WARNING: please, no spaces at the start of a line
+103-main.c:51: WARNING: More than 40 lines in a function
+103-main.c:52: ERROR: code indent should use tabs where possible
+103-main.c:52: WARNING: please, no spaces at the start of a line
+103-main.c:52: WARNING: More than 40 lines in a function
+103-main.c:53: ERROR: code indent should use tabs where possible
+103-main.c:53: WARNING: please, no spaces at the start of a line
+103-main.c:53: WARNING: More than 40 lines in a function
+103-main.c:54: ERROR: code indent should use tabs where possible
+103-main.c:54: WARNING: please, no spaces at the start of a line
+103-main.c:54: WARNING: More than 40 lines in a function
+103-main.c:55: ERROR: code indent should use tabs where possible
+103-main.c:55: WARNING: please, no spaces at the start of a line
+103-main.c:55: WARNING: More than 40 lines in a function
+103-main.c:56: ERROR: code indent should use tabs where possible
+103-main.c:56: WARNING: please, no spaces at the start of a line
+103-main.c:56: WARNING: More than 40 lines in a function
+103-main.c:57: ERROR: code indent should use tabs where possible
+103-main.c:57: WARNING: please, no spaces at the start of a line
+103-main.c:57: WARNING: More than 40 lines in a function
+103-main.c:58: ERROR: code indent should use tabs where possible
+103-main.c:58: WARNING: please, no spaces at the start of a line
+103-main.c:58: WARNING: More than 40 lines in a function
+total: 47 errors, 57 warnings, 59 lines checked
+main
+
+========== 104-main.c ==========
+104-main.c:11: WARNING: line over 80 characters (190)
+104-main.c:11: WARNING: please, no spaces at the start of a line
+104-main.c:13: WARNING: please, no spaces at the start of a line
+104-main.c:14: WARNING: please, no spaces at the start of a line
+104-main.c:15: WARNING: please, no spaces at the start of a line
+104-main.c:16: WARNING: please, no spaces at the start of a line
+total: 0 errors, 6 warnings, 17 lines checked
+main

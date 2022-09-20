@@ -1,8 +1,8 @@
-#include "../main.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
- * main - check the code for ALX School students.
+ * main - check the code
  *
  * Return: Always 0.
  */
